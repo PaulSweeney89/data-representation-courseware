@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book_library>
+    <catalogue name="Technical">
+        <book ISBN10="0135957052" ISBN13="9780135957059">
+            <title>The Pragmatic Programmer</title>
+            <author>David Thomas</author>
+        </book>
+        <book ISBN10="0201770598" ISBN13="9780201770599">
+            <title>The XML Companion</title>
+            <author>Neil Bradley</author>
+        </book>
+    </catalogue>
+    <catalogue name="Cookery">
+        <book ISBN10="0007423675" ISBN13="9780007423675">
+            <title>Paddington's Cookery Book</title>
+            <author> Michael Bond</author>
+        </book>
+        <book ISBN10="1903018420" ISBN13="9781903018422">
+            <title>A Baghdad Cookery Book</title>
+            <author>Muhammad Ibn Al-H Al-Baghdadi</author>
+        </book>
+    <catalogue>
